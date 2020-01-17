@@ -16,7 +16,7 @@
 
 2. Run Server
 
-´```
+```
 python3 Server.py
 ```
 
